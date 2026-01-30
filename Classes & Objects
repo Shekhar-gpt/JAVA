@@ -1,0 +1,4 @@
+In Java, classes and objects form the foundation of Object-Oriented Programming (OOP). They help model real-world entities and organize code in a structured way.
+
+A class is a blueprint used to create objects that share common properties and behavior.
+An object is an instance of a class. It represents a specific entity created from the class template.
